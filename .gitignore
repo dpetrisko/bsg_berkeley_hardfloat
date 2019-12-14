@@ -1,0 +1,15 @@
+*.DS_Store
+*.o
+obj_dir
+DVEfiles
+csrc
+*.tr
+*.txt
+bsg_trace_rom*
+*.vpd
+*.vcd
+ucli.key
+*.a
+simv*
+external/TestFloat-3e/build/Linux-x86_64-GCC/test*
+external/TestFloat-3e/build/Linux-x86_64-GCC/time*

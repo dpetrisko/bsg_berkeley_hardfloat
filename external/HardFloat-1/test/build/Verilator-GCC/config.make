@@ -1,0 +1,3 @@
+
+SPECIALIZE_TYPE ?= RISCV
+
